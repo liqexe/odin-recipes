@@ -1,0 +1,36 @@
+p,
+ul,
+ol {
+    font-size: 18px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+a {
+    background-color: transparent;
+}
+
+a:hover {
+    color: #059862;
+}
+
+.listm {
+    font-size: 32px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-style:italic;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.strt{
+    text-align: center;
+}
+
+li::marker {
+    color: #FF6F61;
+}
