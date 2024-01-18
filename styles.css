@@ -1,12 +1,12 @@
-p,
-ul,
-ol {
-    font-size: 18px;
+* {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
     font-family: "Times New Roman", sans-serif;
 }
 
-a {
-    background-color: transparent;
+.maind {
+    width: 50%;
+    margin: 0 auto;
 }
 
 a:hover {
@@ -14,21 +14,17 @@ a:hover {
 }
 
 .listm {
-    font-size: 32px;
+    font-size: 2.25rem;
 }
 
 h1 {
     text-align: center;
-    font-size: 48px;
+    font-size: 3rem;
     font-style:italic;
 }
 
 h2 {
-    font-size: 32px;
-}
-
-.strt{
-    text-align: center;
+    font-size: 2.25rem;
 }
 
 li::marker {
